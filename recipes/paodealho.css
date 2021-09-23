@@ -10,6 +10,7 @@ body {
   align-items: center;
   background-color: #202020;
   color: aliceblue;
+  font-family:  'Heebo', sans-serif;
 
 }
 
@@ -51,6 +52,7 @@ p {
 #banner {
     display: flex;
     flex-direction: column;
+    margin-left: 50px;
     
 }
 
